@@ -1,0 +1,79 @@
+
+
+body {
+    background-color: white;
+}
+
+
+.search-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10rem;
+    border: 2px solid black;
+    height: 10rem;
+    background-color: #990000;
+    
+    
+    
+}
+
+#search {
+    background-color:#E0E0E0;
+    text-align: center;
+    width: 20rem;
+    
+}
+
+#search-button {
+    width: 6rem;
+    color: #FA2727;
+}
+
+.style {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#login {
+    text-align: center;
+    display: flex;
+    margin-bottom: 6px;
+    height: 2rem;
+
+    
+}
+
+#senha {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 2rem;
+}
+
+
+#api-key {
+    margin-top: 6px;
+    margin-bottom: 4px;
+    height: 2rem;
+    text-align: center;
+}
+
+#button-login {
+    background-color: red;
+    color: white;
+    height: 3rem;
+    width: 25rem;
+    margin-top: 10px;
+    margin-left: 44px;
+
+}
+
+#estilo-login {
+    display: flex; 
+    width: 30rem;
+    justify-content: top; 
+    flex-direction: column;
+}
+
